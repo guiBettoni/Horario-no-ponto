@@ -1,0 +1,6 @@
+{
+  "name": "Horário no Ponto",
+  "description": "Aplicativo de atalhos para consulta de horários de ônibus de Santa Terezinha, Jotur e Estrela em Florianópolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

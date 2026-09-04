@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Horário no Ponto</string>
+    <string name="toolbar_title">Horário no Ponto</string>
+
+    <!-- Cabeçalho e Introdução -->
+    <string name="header_headline">Encontre seu ônibus</string>
+    <string name="header_subtitle">Consulte os horários das principais empresas da região.</string>
+    <string name="badge_region">Grande Florianópolis</string>
+    <string name="banner_caption">Linhas e itinerários atualizados</string>
+
+    <!-- Empresas de Transporte -->
+    <string name="company_santa_terezinha">Santa Terezinha</string>
+    <string name="company_jotur">Jotur</string>
+    <string name="company_estrela">Estrela</string>
+    <string name="action_consult_schedules">Consultar horários</string>
+
+    <!-- Compatibilidade de identificadores anteriores -->
+    <string name="btn_santa_terezinha">Santa Terezinha</string>
+    <string name="btn_jotur">Jotur</string>
+    <string name="btn_estrela">Estrela</string>
+    <string name="btn_proxima_tela">Sobre o aplicativo</string>
+    <string name="btn_voltar">Voltar ao início</string>
+
+    <!-- Ação Secundária (Rodapé da Tela Principal) -->
+    <string name="more_info_title">Sobre o aplicativo</string>
+    <string name="more_info_subtitle">Informações sobre o projeto e linhas</string>
+
+    <!-- Segunda Tela (SecondActivity) -->
+    <string name="second_screen_title">Sobre o aplicativo</string>
+    <string name="second_screen_description">O Horário no Ponto reúne atalhos para consultar rapidamente os horários das principais empresas de transporte da região.</string>
+    <string name="section_available_companies">Empresas disponíveis</string>
+    <string name="desc_santa_terezinha">Linhas intermunicipais e metropolitanas</string>
+    <string name="desc_jotur">Palhoça e região metropolitana</string>
+    <string name="desc_estrela">Florianópolis e linhas continentais</string>
+    <string name="quick_tip_title">Dica rápida</string>
+    <string name="quick_tip_desc">Os horários são abertos diretamente no site oficial de cada empresa em seu navegador padrão.</string>
+
+    <!-- URLs Oficiais de Horários (Intents) -->
+    <string name="url_santa_terezinha">https://santaterezinha.com/horarios/</string>
+    <string name="url_jotur">https://jotur.com.br/horarios/</string>
+    <string name="url_estrela">https://insulartc.com.br/horarios/</string>
+
+    <!-- Acessibilidade / Content Descriptions -->
+    <string name="desc_bus_stop_icon">Ícone do aplicativo</string>
+    <string name="desc_bus_icon">Ícone de ônibus</string>
+    <string name="desc_chevron_right">Acessar página de horários</string>
+    <string name="desc_map_background">Mapa da região metropolitana</string>
+    <string name="desc_back_button">Voltar à tela anterior</string>
+    <string name="desc_info_icon">Ícone de informações</string>
+</resources>
